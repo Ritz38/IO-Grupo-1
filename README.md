@@ -4,3 +4,5 @@ Investigacion de Operaciones
 Clase00
 
 Para hacer salto de linea, dejar un espacio en blanco con enter, para una linea horizontal utilizar "##"
+
+Fork es una copia de repositorio
