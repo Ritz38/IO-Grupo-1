@@ -1,4 +1,4 @@
 # IO-Grupo-1
 Investigacion de Operaciones
 ##
-HOLA
+Para hacer salto de linea, dejar un espacio en blanco con enter, para una linea horizontal utilizar "##"
